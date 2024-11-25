@@ -1,10 +1,10 @@
 # Imagens do Projeto
 
 ## Primeiro Sinal
-![](MatLab/resources/imagem1.png)
+![](MatLab/resources/a1.png)
 
 ## Segundo Sinal
-![](MatLab/resources/imagem2.png)
+![](MatLab/resources/a2.png)
 
 ## Terceiro SInal
-![](MatLab/resources/imagem3.png)
+![](MatLab/resources/a3.png)
